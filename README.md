@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansari-akram aka `adoreta`
-- 👀 I’m interested in `Django`, `Flutter`, `JavaScript`
+- 👀 I’m interested in `Django`, `Flutter`, `JavaScript`, `Python`
 - 🌱 I’m currently learning `Flutter`
 - 📫 How to reach me `You can't`
 
