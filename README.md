@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansari-akram aka `adoreta`
 - 👀 I’m interested in `Django`, `Flutter`, `JavaScript`, `Python`
-- 🌱 I’m currently learning `Flutter`
+- 🌱 I’m currently learning `Flutter`, `Web Development`
 - 📫 How to reach me `You can't`
 
 <!---
